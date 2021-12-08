@@ -8,7 +8,7 @@
 
 <p>
     <i>noun</i><br>
-    <small>1.</small> a Lisztomaniac is someone who listens music all the time.
+    1. a Lisztomaniac is someone who listens music all the time.
 </p>
 
 <h2>
