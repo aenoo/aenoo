@@ -23,6 +23,6 @@
     <br>The project I'm working on right now :
 </h2>
 
-<p>
-    → <code>Nothing (sometimes it's important to take breaks uwu)</code>
+<p> <!-- Nothing (sometimes it's good to take a break uwu) -->
+    → <a href="https://github.com/aenoo/Newcord"><code>Newcord</code></a>
 </p>
