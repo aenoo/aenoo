@@ -23,4 +23,4 @@
     <br>The project I'm working on right now :
 </h2><br>
 
-<a href="https://github.com/aenoo/Detcord"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aenoo&repo=Detcord&title_color=fff&text_color=b9bbbe&icon_color=b9bbbe&border_color=18191c&bg_color=18191c&border_radius=10px"/></a>
+<a href="https://github.com/aenoo/Discordicons"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aenoo&repo=Discordicons&title_color=fff&text_color=b9bbbe&icon_color=b9bbbe&border_color=18191c&bg_color=18191c&border_radius=10px"/></a>
