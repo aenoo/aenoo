@@ -1,7 +1,7 @@
 <img align="right" src="https://lanyard-profile-readme.vercel.app/api/916799876677926982?bg=18191c"/>
 
 <h2 align="left">
-    🧠 About me
+    🌱 About me
 </h2>
 
 <p align="left">
